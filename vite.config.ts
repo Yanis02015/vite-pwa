@@ -11,9 +11,9 @@ const manifestForPlugin: Partial<VitePWAOptions> = {
     description: "An app that can show weather forecast for your city.",
     icons: [
       {
-        src: "/vite.svg",
+        src: "/android-chrome-192x192.png",
         sizes: "192x192",
-        type: "image/svg",
+        type: "image/png",
       },
     ],
     theme_color: "#171717",
